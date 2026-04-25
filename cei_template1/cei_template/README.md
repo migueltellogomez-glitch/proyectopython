@@ -83,4 +83,4 @@ Módulos internos: cei_template (BaseDeDatos, Visualizacion, Singleton, Vehiculo
 ## Credits
 
 ### Owner
-- Your Name <miguel.tello.gomez@alumnoscei.es>
+- Your Name <miguel.tello.gomez@alumnos.cei.es>
