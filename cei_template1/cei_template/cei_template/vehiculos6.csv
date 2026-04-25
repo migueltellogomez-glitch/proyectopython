@@ -1,0 +1,7 @@
+matricula,estado_mantenimiento,kilometraje,tipo_vehiculo,descripcion_averia,coste_reparacion,capacidad_toneladas,tipo_compactador,capacidad_agua_litros,numero_cepillos
+ABC123,Pendiente,150200,Camion Basura,Cambio de aceite,100.0,12.0,Compactador de tornillo,,
+BAB654,En curso,12000,Barredora,Cambio de aceite,111.0,,,5000.0,4.0
+IJH456,Pendiente,210000,Camion Basura,"Rueda pinchada, Cambio de aceite",112.0,12.0,Compactador de tornillo,,
+XXX069,En curso,45000,Camion Basura,Cristal roto,1223.0,12.0,Compactador de tornillo,,
+NNN333,Bueno,5000,Camion Basura,Cristal dañado,1334.0,12.0,Compactador de tornillo,,
+NEW999,Bueno,5000,Camion Basura,,0.0,10.0,Compactador de tornillo,,
